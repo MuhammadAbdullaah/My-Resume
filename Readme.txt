@@ -1,4 +1,4 @@
 
-<a href="https://muhammadabdullaah.github.io/My-Resume/">Visit My Portfolio</a>
+[Visit My Portfolio](https://muhammadabdullaah.github.io/My-Resume/)
 
 
