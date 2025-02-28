@@ -1,5 +1,5 @@
 
-🔗 **[Not available](https://muhammadabdullaah.github.io/My-Resume/)**
+🔗 **[Please click to view my portfolio](https://muhammadabdullaah.github.io/My-Resume/)**
 
 # Muhammad Abdullah's Portfolio
 
