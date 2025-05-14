@@ -9,10 +9,6 @@ Welcome to my digital portfolio. This repository contains the personal resume of
 
 This portfolio website is built using the **iPortfolio template** from **BootstrapMade**. It's designed to showcase my skills, experience, and projects with a clean, professional design. The responsive layout ensures a seamless user experience across various devices.
 
-## Acknowledgments
-
-A big thanks to **BootstrapMade** for creating such a fantastic template, which helped me bring my portfolio to life. Their design perfectly reflects my career journey and professional background.
-
 ## Features
 
 - **Responsive design**: Mobile-friendly and adaptive across devices.
