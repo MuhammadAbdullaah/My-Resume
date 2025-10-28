@@ -5,10 +5,6 @@ Visit My Portfolio: https://muhammadabdullaah.github.io/My-Resume/
 
 Welcome to my digital portfolio. This repository contains the personal resume of **Muhammad Abdullah**, showcasing my professional skills, education, experience, and projects. The website is built using HTML, CSS, and Bootstrap to provide a responsive, modern look.
 
-## About the Template
-
-This portfolio website is built using the **iPortfolio template** from **BootstrapMade**. It's designed to showcase my skills, experience, and projects with a clean, professional design. The responsive layout ensures a seamless user experience across various devices.
-
 ## Features
 
 - **Responsive design**: Mobile-friendly and adaptive across devices.
