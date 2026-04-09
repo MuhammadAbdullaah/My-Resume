@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /portfolio-details.html
+Disallow: /service-details.html
+Disallow: /starter-page.html
+
+Sitemap: https://muhammadabdullaah.github.io/My-Resume/sitemap.xml
