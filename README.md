@@ -1,17 +1,48 @@
+# Muhammad Abdullah Portfolio
 
-Visit My Portfolio: https://muhammadabdullaah.github.io/My-Resume/
+Modern personal portfolio for **Muhammad Abdullah**, a **Ruby on Rails Developer**, **Backend Developer**, and **API Developer** from Pakistan.
 
-# Muhammad Abdullah's Portfolio
+Live site: [muhammadabdullaah.github.io/My-Resume](https://muhammadabdullaah.github.io/My-Resume/)
 
-Welcome to my digital portfolio. This repository contains the personal resume of **Muhammad Abdullah**, showcasing my professional skills, education, experience, and projects. The website is built using HTML, CSS, and Bootstrap to provide a responsive, modern look.
+## Highlights
 
-## Features
+- Clean, responsive portfolio design for freelance clients and hiring teams
+- Ruby on Rails focused positioning with backend-first project storytelling
+- SEO-ready meta tags, Open Graph tags, structured data, `robots.txt`, and `sitemap.xml`
+- Optimized portfolio images and lightweight front-end assets for fast loading
+- Static contact form flow designed for GitHub Pages deployment
 
-- **Responsive design**: Mobile-friendly and adaptive across devices.
-- **Social media links**: Connect with me through Facebook, LinkedIn, and more.
-- **Modern UI**: Clean and sleek design for a professional online presence.
+## Featured Work
 
+- QUL
+- Autopartify
+- Autorentify
+- Rexo Games
 
-Thank you for visiting my portfolio. I hope you find it insightful!
+## Tech
 
-**Ruby On rails** 
+- HTML
+- CSS
+- JavaScript
+- AOS
+- GitHub Pages
+
+## Local Preview
+
+```bash
+python3 -m http.server 8000
+```
+
+Open `http://localhost:8000`
+
+## SEO Notes
+
+- Primary target keywords include `Abdullah Ruby on Rails Developer` and `Ruby on Rails Developer Pakistan`
+- For the cleanest SEO URL, publish this as the root GitHub Pages site at `https://muhammadabdullaah.github.io`
+- After deployment, submit the sitemap in Google Search Console
+
+## Contact
+
+- Email: `mabdullahsaeed188@gmail.com`
+- GitHub: [@MuhammadAbdullaah](https://github.com/MuhammadAbdullaah)
+- LinkedIn: [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-61400a386/)
